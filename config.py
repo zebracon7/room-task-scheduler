@@ -1,0 +1,5 @@
+# Ключ API GigaChat
+GIGACHAT_API_KEY = 'ВАШ_GIGACHAT_API_KEY'
+
+# Токен Telegram-бота
+TELEGRAM_BOT_TOKEN = 'ВАШ_TELEGRAM_BOT_TOKEN'

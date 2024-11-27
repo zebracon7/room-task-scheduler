@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain_community
+gigachain
+python-telegram-bot==20.3
+urllib3<2.0
+six
